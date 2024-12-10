@@ -40,7 +40,7 @@ public class FarbicCalculation{
 
     }
 
-    //test/
+    //test2/
 
     public void calculationFabric1_Shirt(){
 
