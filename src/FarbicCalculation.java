@@ -40,6 +40,8 @@ public class FarbicCalculation{
 
     }
 
+    //test/
+
     public void calculationFabric1_Shirt(){
 
         System.out.println(ConsoleColors.BLACK + ConsoleColors.PURPLE_BACKGROUND + "Wie breit ist der Stoff in cm?: " + ConsoleColors.RESET);
